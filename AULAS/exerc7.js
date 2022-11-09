@@ -1,5 +1,4 @@
-//Francisco precisa de um sistema para gerenciar sua escola
-//Neste sistema precisamos capturar o aluno com as seguintes informações
+//Francisco precisa de um sistema para gerenciar sua escola. Neste sistema precisamos capturar o aluno com as seguintes informações 
 //aluno:
 //    - nome
 //    - matricula
