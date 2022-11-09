@@ -20,6 +20,6 @@ last = Number(prompt('Indique o ultimo número da sequência:'))
 
 for (let i = first; i <= last; i++) {
     if(i%2 == 0){
-        alert(i)
+    console.log(i)
     }
 }
